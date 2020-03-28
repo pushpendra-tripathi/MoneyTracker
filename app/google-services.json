@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115589940247",
+    "firebase_url": "https://money-tracker-3c451.firebaseio.com",
+    "project_id": "money-tracker-3c451",
+    "storage_bucket": "money-tracker-3c451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115589940247:android:c4a0339ccbe7ab89664852",
+        "android_client_info": {
+          "package_name": "com.starlord.moneytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115589940247-ujoh9unpjaigkn96pj74lvfg6alp088t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZl_d1x7tG6-oKgg89n5ftaNMOsPv-xi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115589940247-ujoh9unpjaigkn96pj74lvfg6alp088t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
